@@ -47,7 +47,7 @@
 //@Configuration
 //public class ClusterDataSourceConfiguration {
 //
-//    private static final String JDBC_DRIVER_NAME = "com.mysql.jdbc.Driver";
+//    private static final String JDBC_DRIVER_NAME = "com.mysql.cj.jdbc.Driver";
 //
 //    /**
 //     *  JDBC执行超时时间, 单位秒
